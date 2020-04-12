@@ -4,3 +4,4 @@ Application très basique client serveur en PHP. Le support de cet exemple est a
 ## Pour la démarrer
 - Installer Docker
 - Lancer la commande `docker-compose up`
+- Lancer la commande `open localhost:7777` (ou taper cet URL dans votre navigateur)
