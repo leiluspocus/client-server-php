@@ -17,6 +17,7 @@
 
 <script>
 document.getElementById('cache').addEventListener('click', () => {
+    console.log('Il y a eu un clic sur le bouton');
     var display_title = document.getElementById('titre').style.display;
     if ( display_title == 'block' || display_title === '' ) {
         document.getElementById('titre').style.display = 'none';
